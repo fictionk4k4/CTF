@@ -66,4 +66,4 @@ The b option will print differing bytes and the l option output  byte numbers an
 
 **Flag is : flag{y0u_have_gradu4ted_fr0m_th3_baby'5 b07713!!}**
 
-I'm not the one who solve this challenger. My friend told me about cmp command.
+I'm not the one who solve this challenger. My friend(Trái Ổi) told me about cmp command.
